@@ -1,5 +1,5 @@
 # Description
-A POC solution addresses underutilized urban spaces for sustainable initiatives, aligning with UN SDGs 7 and 11. Using advanced drones and AI, we provide precise rooftop surveys for solar installations (and possibly urban farming). Revenue streams include per-analysis charging, data sales, partnership commissions, and custom solutions, ensuring a sustainable business model.
+An AI POC solution that aims to address underutilized urban spaces for sustainable initiatives, aligning with UN SDGs 7 and 11. Using advanced drones and AI, we provide precise rooftop surveys for solar installations (and possibly urban farming). Revenue streams include per-analysis charging, data sales, partnership commissions, and custom solutions, ensuring a sustainable business model.
 
 # Main.py
 This is the main Python file where we worked on a proof of concept to identify suitable placements of solar panels on rooftops. The file input.jpg functions as the input image for analysis, while output.jpg displays the finalized placement of solar panels on the rooftop after the analysis.
